@@ -1,3 +1,9 @@
 *.md filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.mrml filter=lfs diff=lfs merge=lfs -text
+*.fcsv filter=lfs diff=lfs merge=lfs -text
+*.vp filter=lfs diff=lfs merge=lfs -text
+*.vtk filter=lfs diff=lfs merge=lfs -text
+*.nrrd filter=lfs diff=lfs merge=lfs -text
