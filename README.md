@@ -6,9 +6,8 @@ IE-Map: A novel in-vivo atlas and template of the human inner ear
 ## Publication and Citation
 The atlas has been validated and published as an Open Access manuscript (CC BY 4.0) in Scientific Reports (Springer/Nature). If you make use of this material, please cite our work as follows:
 
-Ahmadi, SA., Raiser, T.M., Rühl, R.M. et al. IE-Map: a novel in-vivo atlas and template of the human inner ear. 
-IE-Map: A novel in-vivo atlas template of the human inner ear <br>
 Seyed-Ahmad Ahmadi, Theresa Raiser, Ria Maxine Ruehl, Virginia Flanagin, Peter zu Eulenburg <br>
+IE-Map: A novel in-vivo atlas template of the human inner ear <br>
 Sci Rep 11, 3293 (2021). https://doi.org/10.1038/s41598-021-82716-0 <br>
 
 ## About
