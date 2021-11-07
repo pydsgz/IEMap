@@ -4,7 +4,7 @@ IE-Map: A novel in-vivo atlas and template of the human inner ear
 <img width="500" alt="" src="./data/fig_IEMap_3Drender.png">
 
 ## Publication and Citation
-The atlas has been validated and published as an Open Access manuscript (CC BY 4.0) in Scientific Reports (Springer/Nature). If you make use of this material, please cite our work as follows:  
+The atlas has been validated and published as an Open Access manuscript ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) in Scientific Reports (Springer/Nature). If you make use of this material, please cite our work as follows:  
 
 Ahmadi, SA., Raiser, T.M., Rühl, R.M. et al. IE-Map: a novel in-vivo atlas and template of the human inner ear. 
 IE-Map: A novel in-vivo atlas template of the human inner ear <br>
@@ -20,10 +20,10 @@ Please note: We have a limited download quota for the dataset on github. In case
 The T1/T2/CISS templates, segmentation labelmaps, surface models and landmarks are all available in the subdirectory /data. You can download a ZIP file of the whole repository, and unzip it locally in your system. The /data folder contains a 3D Slicer scene (IEMap_slicerScene_v_1_0.mrml). [3D Slicer](https://download.slicer.org/) is a cross-platform (Windows/Mac/Linux), open-source, and freely available software for medical image analysis and visualization. After installing and starting Slicer, unzip the data file and load the MRML scene file, e.g. via drag&drop into the Slicer user interface. Users without experience in 3D Slicer can follow a quick, [4-minute tutorial](https://www.slicer.org/wiki/Documentation/4.10/Training#Slicer4Minute_Tutorial) to learn how to navigate the template slices and the 3D scene.
 
 ## Acknowledgments
-Some of the surface meshes in this repository (/data/ls_Hsapiens_*.vtk) were registered to our IE-Map template space. The source material was derived from (CC BY 4.0):
+Some of the surface meshes in this repository (/data/ls_Hsapiens_*.vtk) were registered to our IE-Map template space. The source material was derived from David et al., Sci Rep, 2016 (published under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license). The material was modified for this work, by registration/deformation to our IE-Map template space. Please check and cite the original material published under:
 
 David, R., Stoessel, A., Berthoz, A., Spoor, F. & Bennequin, D. Assessing morphology and function of the semicircular duct system: introducing new in-situ visualization and software toolbox. Sci. Rep. https://doi.org/10.1038/srep32772 (2016).
 
-The CT/micro-CT templates in this repository were custom-built and reconstructed in our IE-Map template space. The source material was derived from (CC BY 4.0):
+The CT/micro-CT templates in this repository were custom-built and reconstructed in our IE-Map template space. The original/unmodified source material was obtained from ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)):
 
 Wimmer, W. et al. Human bony labyrinth dataset: co-registered CT and micro-CT images, surface models and anatomical landmarks. Data Brief 27, 104782. https://doi.org/10.1016/j.dib.2019.104782 (2019).
