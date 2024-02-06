@@ -1,7 +1,8 @@
 # IEMap
 IE-Map: A novel in-vivo atlas and template of the human inner ear
 <!--![](./data/fig_IEMap_3Drender.png)-->
-<img width="500" alt="" src="./data/fig_IEMap_3Drender.png">
+<!--<img width="500" alt="" src="./data/fig_IEMap_3Drender.png">-->
+<img width="500" alt="" src="https://zenodo.org/api/iiif/record:10625570:fig_IEMap_3Drender.png/full/!800,800/0/default.png">
 
 ## Publication and Citation
 The atlas has been validated and published as an Open Access manuscript ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) in Scientific Reports (Springer/Nature). If you make use of this material, please cite our work as follows:  
