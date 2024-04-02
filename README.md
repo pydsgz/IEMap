@@ -5,12 +5,9 @@ IE-Map: A novel in-vivo atlas and template of the human inner ear
 <img width="500" alt="" src="https://zenodo.org/api/iiif/record:10625570:fig_IEMap_3Drender.png/full/!800,800/0/default.png">
 
 ## Publication and Citation
-The atlas has been validated and published as an Open Access manuscript ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) in Scientific Reports (Springer/Nature). If you make use of this material, please cite our work as follows:  
+The atlas has been validated and published as an Open Access [manuscript](https://doi.org/10.1038/s41598-021-82716-0) in Scientific Reports. The license for both the paper and data is: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you make use of this material, please cite our work as follows:  
 
-Ahmadi, SA., Raiser, T.M., Rühl, R.M. et al. IE-Map: a novel in-vivo atlas and template of the human inner ear. 
-IE-Map: A novel in-vivo atlas template of the human inner ear <br>
-Seyed-Ahmad Ahmadi, Theresa Raiser, Ria Maxine Ruehl, Virginia Flanagin, Peter zu Eulenburg <br>
-Sci Rep 11, 3293 (2021). https://doi.org/10.1038/s41598-021-82716-0 <br>
+> Ahmadi S-A, Raiser TM, Rühl RM, Flanagin VL, zu Eulenburg P (2021) **IE-Map: a novel in-vivo atlas and template of the human inner ear.** Sci Rep. doi: 10.1038/s41598-021-82716-0
 
 ## About
 Brain atlases and templates are core tools in scientific research with increasing importance also in clinical applications. Advances in neuroimaging now allowed us to expand the atlas domain to the vestibular and auditory organ, the inner ear. In this study, we present IE-Map, an in-vivo template and atlas of the human labyrinth derived from multi-modal high-resolution magnetic resonance imaging (MRI) data, in a fully non-invasive manner without any contrast agent or radiation. We reconstructed a common template from 126 inner ears (63 normal subjects) and annotated it with 94 established landmarks and semi-automatic segmentations of all relevant macroscopic vestibular and auditory substructures. We validated the atlas by comparing MRI templates to a novel CT/micro-CT atlas, which we reconstructed from 21 publicly available post-mortem images of the bony labyrinth. Templates in MRI and micro-CT have a high overlap, and several key anatomical measures of the bony labyrinth in IE-Map are in line with micro-CT literature of the inner ear. A quantitative substructural analysis based on the new template, revealed a correlation of labyrinth parameters with total intracranial volume. No effects of gender or laterality were found. We provide the validated templates, atlas segmentations, surface meshes and landmark annotations as open-access material, to provide neuroscience researchers and clinicians in neurology, neurosurgery, and otorhinolaryngology with a widely applicable tool for computational neuro-otology.
