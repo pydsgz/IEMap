@@ -1,5 +1,4 @@
-# IEMap
-IE-Map: A novel in-vivo atlas and template of the human inner ear
+# IEMap: A novel in-vivo atlas and template of the human inner ear
 <!--![](./data/fig_IEMap_3Drender.png)-->
 <!--<img width="500" alt="" src="./data/fig_IEMap_3Drender.png">-->
 <img width="500" alt="" src="https://zenodo.org/api/iiif/record:10625570:fig_IEMap_3Drender.png/full/!800,800/0/default.png">
